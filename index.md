@@ -8,4 +8,4 @@ I am a student who is curious about
 I hope to post some handouts on here to help others learn these subjects (mostly math)!
 
 # Handouts
-<a href="handouts">Click here for handouts!</a>
+<a href="Handouts">Click here for handouts!</a>
