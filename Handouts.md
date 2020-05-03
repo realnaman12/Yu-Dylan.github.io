@@ -1,3 +1,3 @@
 layout: page
-title: Handouts
+title: "Handouts"
 permalink: /handouts/
