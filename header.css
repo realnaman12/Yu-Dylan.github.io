@@ -18,7 +18,7 @@
 	/* float:left; Remove this, it keeps all the items to the left */
 	display: inline;
     
-    color:white;
+    color:black;
     /* height: 50px; fixing heights is generally a bad idea, let the content define the height it needs */
     margin: 
     padding: -5 -5px
