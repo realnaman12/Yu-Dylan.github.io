@@ -1,4 +1,3 @@
-<a href="index">Dylan Yu</a>
 # About Me
 I am a student who is curious about
 1. Mathematics
@@ -7,3 +6,6 @@ I am a student who is curious about
 4. Economics
 
 I hope to post some handouts on here to help others learn these subjects (mostly math)!
+
+# Handouts
+<a href="handouts">Click here for handouts!</a>
