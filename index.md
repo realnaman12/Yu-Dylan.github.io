@@ -1,6 +1,4 @@
-# Dylan's Website
-
-## About Me
+# About Me
 I am a student who is curious about
 1. Mathematics
 2. Physics
