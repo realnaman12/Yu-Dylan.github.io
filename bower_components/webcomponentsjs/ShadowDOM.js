@@ -2527,7 +2527,7 @@ window.ShadowDOMPolyfill = {};
      case '"':
       return "&quot;";
 
-     case " ":
+     case " ":
       return "&nbsp;";
     }
   }
